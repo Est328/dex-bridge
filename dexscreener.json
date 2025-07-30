@@ -1,1 +1,38 @@
-{}
+[
+  {
+    "baseToken": {
+      "name": "MeowToken",
+      "symbol": "MEOW"
+    },
+    "fdv": 3100000,
+    "liquidity": {
+      "usd": 19000
+    },
+    "volume": {
+      "h24": 620000
+    },
+    "priceChange": {
+      "h24": 142
+    },
+    "pairCreatedAt": "2025-07-30T10:01:00.000Z",
+    "url": "https://www.dextools.io/app/en/ether/pair-explorer/0x123456"
+  },
+  {
+    "baseToken": {
+      "name": "SleepyCoin",
+      "symbol": "ZZZ"
+    },
+    "fdv": 8900000,
+    "liquidity": {
+      "usd": 8000
+    },
+    "volume": {
+      "h24": 120000
+    },
+    "priceChange": {
+      "h24": 530
+    },
+    "pairCreatedAt": "2025-07-28T09:00:00.000Z",
+    "url": "https://www.dextools.io/app/en/ether/pair-explorer/0xabcdef"
+  }
+]
